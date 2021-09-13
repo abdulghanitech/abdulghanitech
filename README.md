@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**abdulghanitech/abdulghanitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate self-taught developer specializing in Front-end technologies.
 
-Here are some ideas to get you started:
+**About me**
+- 💼 Software Engineer at [Volteo Maritime](https://volteomaritime.com)
+- 📈 Built Feazy(Foodtech startup), Librex(For Students of Harvard), ImagineMeats(Film star Genelia and Ritesh's firm), Savezy(1.5L+ downloads on Playstore), PrajaBandhu(Tandur constituency MLA's app)
+- 🔭 I’m currently working on Decentralized Apps using Solidity and Ethereum
+- 🌱 I’m currently learning Artificial Intelligence and Block Chain from [IIIT-Hyderabad](https://www.iiit.ac.in)
+- 💬 Ask me about anything [here](https://abdulghani.tech/contact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://www.vedadigital.io/_next/static/images/nextjsLogo-6338e3b1fefffb51443e613edd2a6b19.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulghanitech)](#)
+
