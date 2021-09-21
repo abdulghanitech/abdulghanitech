@@ -9,6 +9,8 @@ I'm a passionate self-taught developer specializing in Front-end technologies.
 - 🌱 I’m currently learning Artificial Intelligence and Block Chain from [IIIT-Hyderabad](https://www.iiit.ac.in)
 - 💬 Ask me about anything [here](https://abdulghani.tech/contact)
 
+![](https://komarev.com/ghpvc/?username=abdulghanitech)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
