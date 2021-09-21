@@ -10,6 +10,7 @@ I'm a passionate self-taught developer specializing in Front-end technologies.
 - 💬 Ask me about anything [here](https://abdulghani.tech/contact)
 
 ![](https://komarev.com/ghpvc/?username=abdulghanitech)
+![](https://hit.yhype.me/github/profile?user_id=18095705)
 
 **Languages and Tools:**  
 
