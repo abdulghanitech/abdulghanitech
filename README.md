@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate self-taught developer specializing in Front-end technologies.
+I'm a passionate Software Engineer specializing in Front-end technologies.
 
 **About me**
 - 💼 Software Engineer at [Volteo Maritime](https://volteomaritime.com)
