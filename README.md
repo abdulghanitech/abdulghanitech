@@ -4,7 +4,7 @@ I'm a passionate Software Engineer specializing in Front-end technologies.
 
 **About me**
 - 💼 Software Engineer at [Volteo Maritime](https://volteomaritime.com)
-- 📈 Built Feazy(Foodtech startup), Librex(For Students of Harvard), ImagineMeats(Film star Genelia and Ritesh's firm), Savezy(1.5L+ downloads on Playstore), PrajaBandhu(Tandur constituency MLA's app)
+- 📈 Built Feazy(Foodtech startup), Collaborated with students of Harvard to build their social app, ImagineMeats(Film star Genelia and Ritesh's firm), Savezy(1.5L+ downloads on Playstore), PrajaBandhu(Tandur constituency MLA's app)
 - 🔭 I’m currently working on Decentralized Apps using Solidity and Ethereum
 - 🌱 I’m currently learning Artificial Intelligence and Block Chain from [IIIT-Hyderabad](https://www.iiit.ac.in)
 - 💬 Ask me about anything [here](https://abdulghani.tech/contact)
