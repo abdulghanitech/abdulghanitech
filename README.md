@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdul+Ghani+%F0%9F%91%8B;Full-Stack+Software+Engineer;Blockchain+%26+Web3+Developer;ML+%26+AI+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdul+Ghani+%F0%9F%91%8B;Full-Stack+Software+Engineer;AI+%26+LLM+Tinkerer;Building+Products+People+Love" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://abdulghani.tech"><img src="https://img.shields.io/badge/Portfolio-abdulghani.tech-6C63FF?style=flat-square&logo=google-chrome&logoColor=white" /></a>
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdulghanitech&style=flat-square&color=6C63FF&label=Profile+Views" />
 </p>
 
-**Passionate Full-Stack Engineer** with 7+ years building products used by hundreds of thousands of people — from award-winning mobile apps to decentralized blockchain applications. Currently shipping production-grade software at [**Volteo Maritime**](https://volteomaritime.com) 🚢 while pursuing AI & Blockchain certification at [**IIIT-Hyderabad**](https://www.iiit.ac.in).
+**Passionate Full-Stack Engineer** with 7+ years building products used by hundreds of thousands of people — from award-winning mobile apps to AI-powered platforms. Currently shipping production-grade software at [**Volteo Maritime**](https://volteomaritime.com) 🚢 and building [**MagicInvite**](https://magicinvite.in) on the side.
 
 </div>
 
@@ -43,10 +43,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Blockchain & Web3**
+**AI & LLMs**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
@@ -65,9 +65,9 @@
 
 ## 🌱 Currently
 
-- 🔗 Building **Decentralized Applications** with Solidity & Ethereum
-- 🤖 Pursuing **AI & Blockchain** certification at [IIIT-Hyderabad](https://www.iiit.ac.in)
 - 🚢 Shipping production features at [**Volteo Maritime**](https://volteomaritime.com)
+- 💌 Building [**MagicInvite**](https://magicinvite.in) — a platform for creating stunning digital wedding & event invitations
+- 🤖 Tinkering with AI: building **RAG pipelines**, **agentic workflows**, and experimenting with the latest LLMs
 
 ---
 
