@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdulghanitech&style=flat-square&color=6C63FF&label=Profile+Views" />
 </p>
 
-**Passionate Full-Stack Engineer** with 7+ years building products used by hundreds of thousands of people — from award-winning mobile apps to AI-powered platforms. Currently shipping production-grade software at [**Volteo Maritime**](https://volteomaritime.com) 🚢 and building [**MagicInvite**](https://magicinvite.in) on the side.
+**Passionate Full-Stack Engineer** with 10+ years building products used by hundreds of thousands of people — from award-winning mobile apps to AI-powered platforms. Currently shipping production-grade software at [**Volteo Maritime**](https://volteomaritime.com) 🚢 and building [**MagicInvite**](https://magicinvite.in) on the side.
 
 </div>
 
